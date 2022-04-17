@@ -1,0 +1,23 @@
+= Ansible configuration for rlyeh
+:doctype: article
+:icons: font
+:icontype: svg
+:lang: en
+:nofooter:
+:toc: auto
+:xrefstyle: short
+
+
+== Overview
+
+:url-ansible: https://www.ansible.com[Ansible^]
+:url-rlyeh: rlyeh.drehtuer.net[rlyeh.drehtuer.net^]
+
+This repo contains the link:{url-ansible} configuration for link:{url-rlyeh}.
+
+
+== License
+
+:url-license: LICENSE[Apache-2.0^]
+
+This repo is licensed under link:{url-license}.
